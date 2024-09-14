@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: f74e6271253fce34e9664a3c0ed474b6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638597694790979682
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: player_rolling_dodge_Frame_0
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 14
+      height: 14
+    spriteID: cd5bb330b7919f140946e839c61c275a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: player_rolling_dodge_Frame_1
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 14
+    spriteID: 60dcbef2d68df7a4ca36e502c1d4af6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: player_rolling_dodge_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 46
+      width: 12
+      height: 11
+    spriteID: 80330c59a547e9546a3c806ea2e889eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 46}
+  - name: player_rolling_dodge_Frame_3
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 13
+      height: 12
+    spriteID: 766f25eed1d86e84b85d4576f59ef1f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: player_rolling_dodge_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 12
+      height: 13
+    spriteID: 161e217d62ad2784b8d6ccdd1be3fedb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: player_rolling_dodge_Frame_5
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 13
+      height: 12
+    spriteID: 9a863421a573ede479099f954652f37d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 4}
+  - name: player_rolling_dodge_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 4
+      width: 12
+      height: 13
+    spriteID: 854f1da2d1c05014fa6088010189dbce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 4}
+  - name: player_rolling_dodge_Frame_7
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 26
+      width: 13
+      height: 12
+    spriteID: 3ae01e181b71560469ad383484be3981
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 26}
+  - name: player_rolling_dodge_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 073f47d49c855054995c09fcd7eda90d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 46}
+  - name: player_rolling_dodge_Frame_9
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 26
+      width: 13
+      height: 12
+    spriteID: 52849d18f978edd40ab6f3fa05d237cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 26}
+  - name: player_rolling_dodge_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 5aa62bd1641e101438892e890fea6d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 46}
+  - name: player_rolling_dodge_Frame_11
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 26
+      width: 13
+      height: 12
+    spriteID: 18aabdb0ea2d4a74d88749c1a009eb73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 26}
+  - name: player_rolling_dodge_Frame_12
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 26
+      width: 13
+      height: 12
+    spriteID: 7227050b6f0004a47ba81b43b9592c7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 26}
+  - name: player_rolling_dodge_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 30fc8c5aea0ceac40bc61d2d30a0d211
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 46}
+  - name: player_rolling_dodge_Frame_14
+    originalName: 
+    pivot: {x: 0.4615385, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 26
+      width: 13
+      height: 12
+    spriteID: caba3fdcd665de34c92aeb78857ae7e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 26}
+  - name: player_rolling_dodge_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 4fc03f42edeabd6429e9692f7186b75b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 46}
+  - name: player_rolling_dodge_Frame_16
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 26
+      width: 13
+      height: 12
+    spriteID: 35164fba1a2a707438c20f8acdc3054d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 26}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1557743685
+    name: player_rolling_dodge
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: player_rolling_dodge_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 14
+        height: 14
+      spriteId: cd5bb330b7919f140946e839c61c275a
+    - name: player_rolling_dodge_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 15
+        height: 14
+      spriteId: 60dcbef2d68df7a4ca36e502c1d4af6e
+    - name: player_rolling_dodge_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 11
+      spriteId: 80330c59a547e9546a3c806ea2e889eb
+    - name: player_rolling_dodge_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 766f25eed1d86e84b85d4576f59ef1f0
+    - name: player_rolling_dodge_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 161e217d62ad2784b8d6ccdd1be3fedb
+    - name: player_rolling_dodge_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 2
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 9a863421a573ede479099f954652f37d
+    - name: player_rolling_dodge_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 854f1da2d1c05014fa6088010189dbce
+    - name: player_rolling_dodge_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 3ae01e181b71560469ad383484be3981
+    - name: player_rolling_dodge_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 073f47d49c855054995c09fcd7eda90d
+    - name: player_rolling_dodge_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 2
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 52849d18f978edd40ab6f3fa05d237cc
+    - name: player_rolling_dodge_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 5aa62bd1641e101438892e890fea6d3e
+    - name: player_rolling_dodge_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 1
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 18aabdb0ea2d4a74d88749c1a009eb73
+    - name: player_rolling_dodge_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 1
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 7227050b6f0004a47ba81b43b9592c7a
+    - name: player_rolling_dodge_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 30fc8c5aea0ceac40bc61d2d30a0d211
+    - name: player_rolling_dodge_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 2
+        y: 0
+        width: 13
+        height: 12
+      spriteId: caba3fdcd665de34c92aeb78857ae7e8
+    - name: player_rolling_dodge_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      spriteId: 4fc03f42edeabd6429e9692f7186b75b
+    - name: player_rolling_dodge_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 1
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 35164fba1a2a707438c20f8acdc3054d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 16, y: 16}
